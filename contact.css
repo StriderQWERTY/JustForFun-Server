@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(47, 47, 47);
+}
+
+.imagine{
+    position: relative;
+    display: block;
+    margin-left: auto; /* Automatically add left margin */
+    margin-right: auto; /* Automatically add right margin */
+}
+
+.con{
+    color: white;
+    border: 1px solid white;
+    position: relative;
+    top: 10px;
+    padding: 5px;
+}
+
+.copy781{
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
+
+.cod{
+    position: relative;
+    top: 20px;
+}
